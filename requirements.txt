@@ -1,0 +1,14 @@
+# MISP MCP Server Requirements
+
+# MCP Server Framework
+fastmcp>=2.0.0
+
+# MISP API Client
+pymisp>=2.4.190
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Optional: For development and testing
+# mcp>=0.9.0  # MCP inspector for testing
+# requests>=2.31.0  # Already included with pymisp
